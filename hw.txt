@@ -1,0 +1,26 @@
+Sum of multi-dimensional list
+
+Create dynamic list
+-> Create -> take size as input
+          -> Insert items according to size imidiatly
+          -> Enter value 1: 
+-> Read   -> Your value 1 is your_value
+          -> Your value 2 is your_value
+-> Update -> 1. Update by position
+          -> 2. Update by value
+               -> 1. All
+               -> 2. first occurrence
+               -> 3. last occurrence
+               -> 4. first n number of occurrences
+-> Delete -> 1. Delete by position
+          -> 2. Delete by value
+               -> 1. All
+               -> 2. first occurrence
+               -> 3. last occurrence
+               -> 4. first n number of occurrences
+-> Insert -> 1. First
+          -> 2. Last
+          -> 3. By value
+          -> 4. By position
+          -> 5. After particular value
+          -> 6. After particular position

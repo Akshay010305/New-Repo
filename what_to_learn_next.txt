@@ -1,0 +1,11 @@
+day - 1 -> next: 
+    - break, continue, pass
+    - custom patterns
+
+day - 2 -> next:
+    string functions
+    and list
+
+day - 3 -> next:
+    set
+    dictionary
